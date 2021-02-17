@@ -1,5 +1,5 @@
 # teste_CD_A3data
-Teste técnico para a vaga de Cientista de Dados da A3DATA
+Desafio técnico Cientista de Dados
 
 Análise exploratória dos dados de ocorrências aeronáuticas da aviação civil brasileira nos últimos 10 anos.
 Obtidos pela CENIPA - Ocorrências Aeronáuticas na Aviação Civil Brasileira, através de: https://dados.gov.br/dataset/ocorrencias-aeronauticas-da-aviacao-civil-brasileira
