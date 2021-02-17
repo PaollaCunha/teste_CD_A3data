@@ -17,3 +17,5 @@ Tabela de Aeronave: AERONAVE.csv - Informações sobre as aeronaves envolvidas n
 Tabela de fator contribuinte: FATOR_CONTRIBUINTE.csv - Informações sobre os fatores contribuinte das ocorrências que tiveram investigações finalizadas, criada em Jun/2015.
 
 Tabela de recomendação de segurança: RECOMENDAÇÃO.csv - Informações sobre as recomendações de segurança geradas nas ocorrências, criada em Abr/2017.
+
+O arquivo codigo.ipynb é o código em linguagem Python, através do Jupyter Notebook, montado durante a análise exploratória.
